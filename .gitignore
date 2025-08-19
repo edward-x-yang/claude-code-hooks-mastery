@@ -127,3 +127,6 @@ extras/
 # Your custom environment files
 .env.personal
 config.personal.json
+
+# Custom guides
+FORK_SYNC_GUIDE.md
