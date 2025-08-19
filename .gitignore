@@ -114,3 +114,16 @@ extras/
 
 # Claude Code data
 .claude/data/
+
+# Personal customizations - add your own patterns here
+.claude/agents/personal-*
+.claude/agents/*-personal.md
+.claude/hooks/personal-*
+.claude/hooks/utils/llm/personal-*
+.claude/output-styles/personal-*
+.claude/status_lines/personal-*
+.claude/settings.personal.json
+
+# Your custom environment files
+.env.personal
+config.personal.json
